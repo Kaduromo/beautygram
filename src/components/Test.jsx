@@ -81,7 +81,7 @@ function Test() {
                           Подписаться
                         </button>
                       </div>
-                      <span className="posts-user__maps">locations</span>
+                      <span className="posts-user__maps">maps</span>
                     </div>
                   </div>
                   <img className="posts__img" src={u.src} alt="img" />
